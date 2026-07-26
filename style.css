@@ -202,6 +202,8 @@ Products
     transition:.35s;
 
     border:1px solid rgba(255,255,255,.08);
+   
+    text-align:center;
 
 }
 
@@ -223,9 +225,20 @@ Products
 
 .card h3{
 
-    padding:25px;
+    padding:20px 10px 10px;
 
     text-align:center;
+
+}
+
+
+.card p{
+
+    text-align:center;
+
+    padding:0 20px 25px;
+
+    color:#cfcfcf;
 
 }
 
