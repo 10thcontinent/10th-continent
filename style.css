@@ -37,7 +37,7 @@ body{
     justify-content:space-between;
     align-items:center;
 
-    padding:20px 8%;
+    padding:15px 8%;
 
     background:rgba(15,15,15,.95);
 
@@ -49,9 +49,13 @@ body{
 
 }
 
-.logo img{
+..logo img{
 
-    width:75px;
+    width:120px;
+
+    height:auto;
+
+}
 
 }
 
