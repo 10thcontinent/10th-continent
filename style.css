@@ -570,3 +570,21 @@ section h2::after{
     }
 
 }
+.bundles .products{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:30px;
+
+    flex-wrap:wrap;
+
+}
+
+
+.bundles .card{
+
+    width:300px;
+
+}
