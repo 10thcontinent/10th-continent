@@ -35,6 +35,9 @@ body{
 
     .navbar{
 
+    position:sticky;
+    top:0;
+
     display:flex;
 
     justify-content:space-between;
@@ -42,8 +45,6 @@ body{
     align-items:center;
 
     padding:20px 8%;
-
-}
 
     background:rgba(15,15,15,.95);
 
@@ -54,6 +55,7 @@ body{
     border-bottom:1px solid rgba(255,255,255,.08);
 
 }
+
 
 .logo img{
 
