@@ -79,3 +79,19 @@ button {
     margin-top: 30px;
     cursor: pointer;
 }
+footer {
+    background-color: #080808;
+    text-align: center;
+    padding: 50px 20px;
+    border-top: 1px solid #3a2415;
+}
+
+footer h2 {
+    color: #c49a5a;
+    letter-spacing: 3px;
+}
+
+footer p {
+    color: #bfa98a;
+    font-size: 16px;
+}
