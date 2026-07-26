@@ -540,6 +540,30 @@ section h2::after{
 
 }
 /* ==========================
+   Bundles
+========================== */
+
+.bundles .products{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:30px;
+
+    flex-wrap:wrap;
+
+}
+
+
+.bundles .card{
+
+    width:300px;
+
+}
+
+
+/* ==========================
    Responsive Design
 ========================== */
 
@@ -575,23 +599,5 @@ section h2::after{
         gap:15px;
 
     }
-
-}
-.bundles .products{
-
-    display:flex;
-
-    justify-content:center;
-
-    gap:30px;
-
-    flex-wrap:wrap;
-
-}
-
-
-.bundles .card{
-
-    width:300px;
 
 }
