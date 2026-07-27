@@ -539,26 +539,24 @@ section h2::after{
     font-size:14px;
 
 }
+
 /* ==========================
    Bundles
 ========================== */
 
 .bundles .products{
 
-    display:flex;
+    display:grid;
 
-    justify-content:center;
+    grid-template-columns:repeat(4,1fr);
 
     gap:30px;
 
-    flex-wrap:wrap;
-
 }
-
 
 .bundles .card{
 
-    width:300px;
+    width:100%;
 
 }
 
