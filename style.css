@@ -567,9 +567,9 @@ section h2::after{
 
 @media(max-width:1000px){
 
-    .products{
+    products{
 
-        grid-template-columns:repeat(2,1fr);
+        grid-template-columns:repeat(5,1fr);
 
     }
 
