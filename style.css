@@ -612,24 +612,3 @@ section h2::after{
 .card:hover .placeholder{
     transform:scale(1.05);
 }
-
-.card .btn{
-    display:inline-block;
-    margin-bottom:25px;
-    padding:12px 30px;
-    font-size:14px;
-}
-   
-/* Product Price */
-
-.price{
-
-    color:#b78a5b;
-
-    font-size:22px;
-
-    font-weight:600;
-
-    margin-bottom:15px;
-
-}
