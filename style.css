@@ -548,9 +548,7 @@ section h2::after{
 
     display:grid;
 
-    grid-template-columns:repeat(4,250px);
-
-    justify-content:center;
+    grid-template-columns:repeat(5,1fr);
 
     gap:30px;
 
