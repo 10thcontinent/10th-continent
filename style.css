@@ -544,7 +544,7 @@ section h2::after{
    Bundles
 ========================== */
 
-.bundles .bundle-products
+.bundles .bundle-products{
 
     display:grid;
 
