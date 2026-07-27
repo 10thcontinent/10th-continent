@@ -546,19 +546,19 @@ section h2::after{
 
 .bundles .bundle-products{
 
-    display:flex;
+    display:grid;
+
+    grid-template-columns:repeat(4,250px);
 
     justify-content:center;
 
     gap:30px;
 
-    flex-wrap:wrap;
-
 }
 
 .bundles .card{
 
-    width:250px;
+    width:100%;
 
 }
 
