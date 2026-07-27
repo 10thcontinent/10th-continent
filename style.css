@@ -544,7 +544,7 @@ section h2::after{
    Bundles
 ========================== */
 
-.bundles .bundle-products{
+.bundles .products{
 
     display:grid;
 
@@ -561,7 +561,6 @@ section h2::after{
     width:100%;
 
 }
-
 /* ==========================
    Responsive Design
 ========================== */
