@@ -114,6 +114,28 @@ Hero
 
 .hero h1{
 
+   /* ==========================
+   Brand Slogan
+========================== */
+
+.slogan{
+
+    font-family:"Inter",sans-serif;
+
+    font-size:14px;
+
+    letter-spacing:4px;
+
+    text-transform:uppercase;
+
+    color:#b78a5b;
+
+    margin-bottom:18px;
+
+    font-weight:500;
+
+}
+
     font-family:"Cormorant Garamond",serif;
 
     font-size:68px;
