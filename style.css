@@ -90,7 +90,7 @@ body{
 
 }
 
-/* ==========================
+ /* ==========================
 Hero
 ========================== */
 
@@ -112,10 +112,9 @@ Hero
 
 }
 
-.hero h1{
 
-   /* ==========================
-   Brand Slogan
+/* ==========================
+Brand Slogan
 ========================== */
 
 .slogan{
@@ -136,6 +135,22 @@ Hero
 
 }
 
+
+/* ==========================
+Hero Title
+========================== */
+
+.hero h1{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:68px;
+
+    max-width:900px;
+
+    margin-bottom:20px;
+
+}
     font-family:"Cormorant Garamond",serif;
 
     font-size:68px;
@@ -600,7 +615,7 @@ section h2::after{
 
     .products{
 
-        grid-template-columns:1fr;
+       grid-template-columns:repeat(2,1fr);
 
     }
 
