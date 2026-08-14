@@ -211,13 +211,13 @@ Products
 ========================== */
 
 .products{
-
+   
     display:grid;
-
-    grid-template-columns:repeat(5,1fr) !important;
-
+   
+    grid-template-columns:repeat(4,1fr) !important;
+   
     gap:30px;
-
+   
 }
 
 .card{
@@ -589,7 +589,7 @@ section h2::after{
 
     .products{
 
-        grid-template-columns:repeat(5,1fr);
+        grid-template-columns:repeat(2,1fr);
 
     }
 
